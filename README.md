@@ -2,4 +2,4 @@
 clone of the designschool...........
 
 #screen shot
-![](preview.png)<br>
+![](./images/preview.png)<br>
